@@ -1,4 +1,4 @@
-#! File written Sat Oct  7 19:17:47 2023
+#! File written Sat Oct  7 19:17:54 2023
 #! MFiX version 23.2 by yuxing on DESKTOP-8MNC2MM
 
 ### Run controls
@@ -23,7 +23,7 @@
   momentum_x_eq(0) = .False.
   momentum_y_eq(0) = .False.
   momentum_z_eq(0) = .False.
-  project_version  = '293'
+  project_version  = '294'
   species_eq(0)    = .False.
   species_eq(1)    = .False.
   species_eq(2)    = .False.
@@ -195,7 +195,7 @@
     monitor_x_w(1)                 = 0.0 #!MFIX-GUI eq{float(xmin)}
     monitor_y_s(1)                 = 0.0 #!MFIX-GUI eq{float(ymin)}
     monitor_y_n(1)                 = 0.005 #!MFIX-GUI eq{float(ymax)}
-    monitor_dt(1)                  = 1.0000e-11
+    monitor_dt(1)                  = 1.0000e-10
     monitor_part_residence_time(1) = .True.
     monitor_rot_x(1)               = .True.
     monitor_rot_y(1)               = .True.
@@ -289,8 +289,8 @@ write_part_out = .True.
 #!MFIX-GUI   "XZ-plane"}}}
 #!MFIX-GUI author = yuxin
 #!MFIX-GUI created_date = 2023-06-09 11:35
-#!MFIX-GUI modified_time = 2023-09-23 11:22
-#!MFIX-GUI project_version = 293
+#!MFIX-GUI modified_time = 2023-10-07 19:17
+#!MFIX-GUI project_version = 294
 #!MFIX-GUI gui_version = 23.2
 #!MFIX-GUI project_notes = ""
 #!MFIX-GUI modified_by = yuxin|yuxing
