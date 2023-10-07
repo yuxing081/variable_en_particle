@@ -1,4 +1,4 @@
-#! File written Sat Oct  7 19:17:54 2023
+#! File written Sat Oct  7 19:18:17 2023
 #! MFiX version 23.2 by yuxing on DESKTOP-8MNC2MM
 
 ### Run controls
@@ -23,7 +23,7 @@
   momentum_x_eq(0) = .False.
   momentum_y_eq(0) = .False.
   momentum_z_eq(0) = .False.
-  project_version  = '294'
+  project_version  = '295'
   species_eq(0)    = .False.
   species_eq(1)    = .False.
   species_eq(2)    = .False.
@@ -222,7 +222,7 @@
   des_etat_w_fac         = 0.5
   des_explicitly_coupled = .False.
   des_interp_scheme      = 'NONE'
-  dtsolid_factor         = 50.0
+  dtsolid_factor         = 100.0
   factor_rlm             = 1.2
   hamaker_constant       = 6.6000e-20
   kn                     = 8.9900e+06
@@ -290,7 +290,7 @@ write_part_out = .True.
 #!MFIX-GUI author = yuxin
 #!MFIX-GUI created_date = 2023-06-09 11:35
 #!MFIX-GUI modified_time = 2023-10-07 19:17
-#!MFIX-GUI project_version = 294
+#!MFIX-GUI project_version = 295
 #!MFIX-GUI gui_version = 23.2
 #!MFIX-GUI project_notes = ""
 #!MFIX-GUI modified_by = yuxin|yuxing
