@@ -1,0 +1,15 @@
+/home/yuxing/mfix/Script/test/variable_en_particle/build/CMakeFiles/udfs.dir
+/home/yuxing/mfix/Script/test/variable_en_particle/build/CMakeFiles/mfixsolver.dir
+/home/yuxing/mfix/Script/test/variable_en_particle/build/CMakeFiles/edit_cache.dir
+/home/yuxing/mfix/Script/test/variable_en_particle/build/CMakeFiles/rebuild_cache.dir
+/home/yuxing/mfix/Script/test/variable_en_particle/build/CMakeFiles/list_install_components.dir
+/home/yuxing/mfix/Script/test/variable_en_particle/build/CMakeFiles/install.dir
+/home/yuxing/mfix/Script/test/variable_en_particle/build/CMakeFiles/install/local.dir
+/home/yuxing/mfix/Script/test/variable_en_particle/build/CMakeFiles/install/strip.dir
+/home/yuxing/mfix/Script/test/variable_en_particle/build/model/CMakeFiles/mfixcore.dir
+/home/yuxing/mfix/Script/test/variable_en_particle/build/model/CMakeFiles/edit_cache.dir
+/home/yuxing/mfix/Script/test/variable_en_particle/build/model/CMakeFiles/rebuild_cache.dir
+/home/yuxing/mfix/Script/test/variable_en_particle/build/model/CMakeFiles/list_install_components.dir
+/home/yuxing/mfix/Script/test/variable_en_particle/build/model/CMakeFiles/install.dir
+/home/yuxing/mfix/Script/test/variable_en_particle/build/model/CMakeFiles/install/local.dir
+/home/yuxing/mfix/Script/test/variable_en_particle/build/model/CMakeFiles/install/strip.dir

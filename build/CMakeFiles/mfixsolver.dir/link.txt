@@ -1,0 +1,1 @@
+/usr/bin/f95 -Wl,--wrap=pow -g -O0 CMakeFiles/udfs.dir/home/yuxing/mfix/Script/test/variable_en_particle/calc_force_dem.f.o CMakeFiles/udfs.dir/home/yuxing/mfix/Script/test/variable_en_particle/des_allocate_mod.f.o -o mfixsolver  model/libmfixcore.a 

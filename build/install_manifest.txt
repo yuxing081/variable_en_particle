@@ -1,0 +1,1 @@
+/home/yuxing/mfix/Script/test/variable_en_particle/mfixsolver
